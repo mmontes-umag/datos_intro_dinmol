@@ -22,7 +22,7 @@ fout = open(fname[:-3]+'csv','w')
 it = 0
 M = len(ll[-1].split())
 labels = [""]*M
-labels[0] = "Time (ps)"
+labels[0] = "Coordinate (nm)"
 
 i=1
 for l in ll:

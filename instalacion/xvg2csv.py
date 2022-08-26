@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-
+"""
+Adaptado de https://github.com/kulasinski/python-for-gromacs
+"""
 import os,sys
 
 delimiter = ','
